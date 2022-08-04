@@ -1,0 +1,4 @@
+1.0.1: 'First version of CitationTool'
+1.0.2:
+    - 'Created table pensoft_citationtool_citations'
+    - builder_table_create_pensoft_citationtool_citations.php
